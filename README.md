@@ -16,8 +16,10 @@ Nécessite [python 3](https://www.python.org/downloads/).
 Assurez-vous de bien indiquer le chemin du fichier texte dont vous voulez afficher les adresses mails dans le script python. La variable adresse_fichier est à la ligne 52.
 ### Étape 2
 Dans votre terminal Windows, exécutez le fichier .py
-Les mails contenus dans le fichier texte indiqués s'afficheront dans le terminal.
+Les mails en .fr contenus dans le fichier texte indiqués s'afficheront dans le terminal.
 
+```python3 ECF_script.py
+```
 
-```
-```
+## Qu'est-ce qui est considéré comme un mail à afficher ?
+Le détail des conventions utilisées est indiqué dans le fichier ECF_script.py et peut être consulté grâce à n'importe quel éditeur de texte.
