@@ -18,7 +18,8 @@ Assurez-vous de bien indiquer le chemin du fichier texte dont vous voulez affich
 Dans votre terminal Windows, exécutez le fichier .py
 Les mails en .fr contenus dans le fichier texte indiqués s'afficheront dans le terminal.
 
-```python3 ECF_script.py
+```bash
+python3 ECF_script.py
 ```
 
 ## Qu'est-ce qui est considéré comme un mail à afficher ?
